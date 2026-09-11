@@ -1,6 +1,3 @@
-# 嵌套 git 仓库（DFT 工具 web 前端）
-DFT_TEST_TOOLS_web/
-
 # Python 缓存
 __pycache__/
 *.pyc
