@@ -1,0 +1,26 @@
+# 嵌套 git 仓库（DFT 工具 web 前端）
+DFT_TEST_TOOLS_web/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# 测试报告产物（运行生成，不应入库）
+测试报告_*.html
+*_汇总_*.xlsx
+*_统计_*.xlsx
+*_信息_*.xlsx
+error_count汇总_*.xlsx
+Shmoo汇总_*.xlsx
+良率统计_*.xlsx
+向量库信息_*.xlsx
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
